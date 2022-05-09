@@ -75,4 +75,9 @@
 	margin: 100px auto;
 }
 
+.profile-pic{
+	max-width: 110px;
+	max-height: 110px;
+	object-fit: cover;
+}
 
